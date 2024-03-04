@@ -24,6 +24,11 @@ const unicorns = [
     img: 'imgs/05_dreambox.jpg',
     desc: 'She is full of dreams.'
   },
+  {
+    name: 'CyberTiger',
+    img: 'https://seijirokosakitmc.github.io/myfriendlyunicorns/imgs/06_cybertiger.jpg',
+    desc: 'Happy Hacking.'
+  }
 ];
 
 const setupMenu = function() {
